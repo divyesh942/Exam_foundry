@@ -1,3 +1,4 @@
+import React from "react";
 import PropTypes from 'prop-types';
 
 const AnswerOptions = ({ question, isChecked, handleAnswerChange, handleCheckboxChange }) => {
